@@ -30,14 +30,12 @@ A Model Context Protocol (MCP) server for Twitter/X API v2 integration using OAu
    - Access Token Secret
 
 ## Installation
-
 ```bash
 cd /home/valiantlynx/projects/hack-mcp/server/twitter-mcp
 uv sync
 ```
 
 ## Configuration
-
 Create a `.env` file in the project root:
 
 ```env
